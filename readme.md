@@ -49,6 +49,6 @@ For the assembly it's very important to put in the M3 nuts before screwing in th
 
 After putting the nuts in the holes and putting the panels in the frames, you can start assembeling the cube by putting the panels an the corners together. After that you can put in the electric components and after that the two layers. The cube is designed in a way that you can put in the layers at the very last or to remove them without needing to disassemble the whole thing again.
 
-if you have any further questions about the building or have some ideas how to make it better please send me a message on twitter @a_teddybar
+if you have any further questions about the building or have some ideas how to make it better please send me a message on twitter @1HappyTeddybear
 
 until then have fun with the cube… :)
